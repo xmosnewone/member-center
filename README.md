@@ -14,7 +14,7 @@ UNIAPP会员中心---- 使用UNIAPP+VUE2.0开发，兼容双平台:H5 + 微信�
 
 #### 技术交流
 QQ 群号:967490959 (ICEPOS技术交流群1)
-<a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=C8ebPPYjtYK-TuDvsJKYOL3oemjWJGN0&jump_from=webapi&authKey=Veosz4jm8dqw/HN3xxPGhAdvCjYOxW7jqr11z3cx3M30pD1V/BshESrDyrxBRugb"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="ICEPOS技术交流群1" title="ICEPOS技术交流群1"></a>
+<a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=C8ebPPYjtYK-TuDvsJKYOL3oemjWJGN0&jump_from=webapi&authKey=Veosz4jm8dqw/HN3xxPGhAdvCjYOxW7jqr11z3cx3M30pD1V/BshESrDyrxBRugb"><img border="0" src="https://pub.idqqimg.com/wpa/images/group.png" alt="ICEPOS技术交流群1" title="ICEPOS技术交流群1"></a>
 <div align="center">
     <p align="center">
      <img src="asset/qqqrcode.png" height="auto" alt="qq群"/>
